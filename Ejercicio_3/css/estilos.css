@@ -1,0 +1,40 @@
+body {
+    background-color: lemonchiffon;
+}
+h1 {
+    text-align: center;
+    color: darkgreen;
+}
+.selvita{
+    display: block;
+    margin: auto;
+    
+}
+img {
+    width: 90%;
+}
+p {
+    text-align: justify;
+    font-size: 15pt;
+    color: gray;
+}
+div img {
+    width: 40%;
+}
+h2 {
+    text-align: center;
+    color: darkgreen;
+}
+h3 {
+    text-align: center;
+    color: darkgreen;
+}
+div {
+    text-align: center;
+}
+p a {
+    display: flex;
+    justify-content: center;
+    font-size: 18pt;
+    color: orange;
+}
